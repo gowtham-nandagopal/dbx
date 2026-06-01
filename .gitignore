@@ -217,6 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-python-version
+.python-version
 pyproject.toml
 uv.lock
+.gitignore
+.DS_Store
